@@ -4,7 +4,7 @@ title: TOP TEN UNIVERSITIES IN USA-2
 description: Top Online Uniersities
 comments: true
 image:
-  feature: pic02.jpg
+  feature: pic01.jpg
 ---
 # HARVARD UNIVERSITY #
 
