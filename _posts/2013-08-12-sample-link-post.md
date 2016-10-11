@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "TOP TEN UNIVERSITIES IN USA"
-description: "Top Online Uniersities"
+title: TOP TEN UNIVERSITIES IN USA
+description: Top Online Uniersities
 comments: true
 image:
   feature: edu.jpg
+published: true
 ---
 # MIT UNIVERSITY #
 
@@ -47,5 +48,4 @@ Look into labs at which you could seek after a UROP include:
 FOR MORE INFORMATION
 <button><a href="http://web.mit.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-
-
+[Cic](topten/_posts/2013-08-16-code-highlighting-post.md)
