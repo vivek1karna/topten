@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title: "Top 10 Technology Trends for 2016"
 description: "Hot New Gadgets"
