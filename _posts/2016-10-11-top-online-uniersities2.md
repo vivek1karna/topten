@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TOP TEN UNIVERSITIES IN USA
-description: Top Online Uniersities
+description: Top Online Universities
 comments: true
 image:
   feature: pic01.jpg
@@ -20,4 +20,4 @@ Harvard is the most seasoned foundation of advanced education in the United Stat
 FOR MORE INFORMATION
 <button><a href="http://www.harvard.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-[Cic](/topten/top-online-uniersities3/)
+[TOP 3](/topten/top-online-universities3/)
