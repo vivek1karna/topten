@@ -25,7 +25,7 @@ Slotznick was first introduced to African affairs in high school, after his fath
 
 At the end of his trip, Slotznick asked the school director if he could return; the following summer, he introduced a conflict resolution curriculum to students. “The problem was, I had used a model based on American public schools,” Slotznick says. “I was 17 years old and I had a do-good heart, I suppose. I just wanted to help but I realized that it’s far more complicated than that. You can't just go and expect to be impactful. This work is complex, you need to think about a lot of different things—you need to think about the relationship forming, the way you’re communicating with other people, you need to consider the preferences and experience of the community you’re going to support, otherwise you're just not going to be effective.”
 
-**WORK IN NICARAGUA: **
+**WORK IN NICARAGUA:**
 
 Around this time, Slotznick read about Sharon Ravitch, senior lecturer in the Graduate School of Education, and Ph.D. student Matt Tarditi, who work on Semillas Digitales (Digital Seeds), which brings technology to coffee-producing communities in Nicaragua. In Slotznick’s freshman year at Penn, he worked with Tarditi to recast his conflict resolution curriculum from Ghana, and traveled to Nicaragua in October of 2014 to deliver the program to a group of teachers. Slotznick returned to Nicaragua in the summer of 2015.
 
