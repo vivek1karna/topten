@@ -9,6 +9,5 @@ image:
 
 ### Corporate health & wellness ideas
 <figure>
-	<a href="http://vivek1karna/topten/images/anstract1.jpg"><img src="http://vivek1karna/topten/images/anstract1.jpg" alt=""></a>
-	<figcaption><a href="http://vivek1karna/topten/images/anstract1.jpg" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+	<img src="http://images/anstract1.jpg" alt=""></a>
 </figure>
