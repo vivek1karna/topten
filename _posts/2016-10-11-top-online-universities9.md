@@ -10,12 +10,15 @@ published: true
 ## CORNELL UNIVERSITY ##
 
 **University Mission:: Learning. Discovery. Engagement.**
+
 Cornell is a private, Ivy League college and the land-allow college for New York State. Cornell's main goal is to find, save, and spread learning; deliver imaginative work; and advance a culture of expansive request all through and past the Cornell people group. Cornell additionally points, through open administration, to upgrade the lives and vocations of our understudies, the general population of New York, and others around the globe.
 
 **University Vision**
+
 Cornell University will be broadly perceived as a main ten research college on the planet, and a model college for the interlacing of liberal instruction and essential information with functional training and effect on societal and world issues.
 
 **CORE VALUES**
+
 The nature and understood estimations of Cornell University were the subject of President Skorton's "Condition of the University" address on October 23, 2009. He contended that Cornell University is bolstered by four major columns:
 
 1. Established and contemporary request, "molded by the author's dedication to liberal and down to earth training." as it were, Cornell values expressions of the human experience and humanities and also progressed logical and mechanical research; in more extensive terms, the college is focused on the entwining of central learning and handy instruction.
