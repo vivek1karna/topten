@@ -50,4 +50,4 @@ Look into labs at which you could seek after a UROP include:
 FOR MORE INFORMATION
 <button><a href="http://web.mit.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-[Cic](/topten/background-image/)
+[Cic](/topten/sample-link-post2/)
