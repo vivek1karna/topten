@@ -33,6 +33,7 @@ The nature and understood estimations of Cornell University were the subject of 
 FOR MORE INFORMATION:
 <button><a href="http://www.cornell.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-Goto :- [TOP 10](/top-online-universities10/)
+Goto :- [TOP 10](/topten/top-online-universities3/)
+
 
 
