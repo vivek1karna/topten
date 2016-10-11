@@ -21,4 +21,4 @@ College understudies at Princeton advantage from the unprecedented assets of a w
 FOR MORE INFORMATION:
 <button><a href="http://www.princeton.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-Goto :- [TOP 7](/topten/top-online-universities7/)
+
