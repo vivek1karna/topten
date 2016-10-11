@@ -45,7 +45,7 @@ Look into labs at which you could seek after a UROP include:
 
 5. MIT's atomic reactor, which conducts progressed, interdisciplinary research on materials science and radiation treatment in addition many different research centers crosswise over grounds.
 
-FOR MORE INFORMATION
+FOR MORE INFORMATION:
 <button><a href="http://web.mit.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-[TOP 2](/topten/top-online-universities2/)
+Goto :- [TOP 2](/topten/top-online-universities2/)
