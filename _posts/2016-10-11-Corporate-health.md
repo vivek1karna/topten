@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 layout: post
 title: "Top 10 Health and Fitness Tips of All Time"
 description: "Corporate health & wellness ideas"
