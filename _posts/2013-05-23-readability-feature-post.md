@@ -14,7 +14,7 @@ Illness or injury may often be the instigator, but frailty is what kills us, say
 
 ### Cut Out the White Stuff
 <figure>
-	<img src="../images/white.jpg" alt="">
+	<img src="http://s3.amazonaws.com/etntmedia/media/images/ext/310012121/white-bread-and-butter-md.jpg" alt="">
 </figure>
 The easiest way to lose weight and improve your health? Ditch the white stuff! Most white foods (bread, rice, pasta, sugar, flour) are primarily made up of refined carbs and empty calories, so cutting them out of your diet is one of the quickest ways to shed pounds and improve your well-being, Dr. Oz says.corporate health and wellness ideas. There are a few exceptions to the rule, including egg whites, cauliflower, and fish, he says. Those are the only white foods you should have on hand.
 
