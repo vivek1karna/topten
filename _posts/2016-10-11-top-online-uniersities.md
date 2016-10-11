@@ -6,7 +6,7 @@ comments: true
 image:
   feature: pic01.jpg
 ---
-# MIT UNIVERSITY #
+## MIT UNIVERSITY ##
 
 ### ABOUT ###
 
