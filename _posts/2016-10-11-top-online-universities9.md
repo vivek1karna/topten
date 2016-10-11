@@ -33,3 +33,5 @@ FOR MORE INFORMATION:
 <button><a href="http://www.cornell.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
 Goto :- [TOP 10](/topten/top-online-universities10/)
+
+<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a>Goto<a href="/topten/top-online-universities10/" class="btn btn-success">TOP 10</a></div>
