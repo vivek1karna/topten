@@ -1,11 +1,10 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: TOP TEN UNIVERSITIES IN USA-2
 description: Top Online Uniersities
 comments: true
 image:
   feature: edu.jpg
-published: true
 ---
 # HARVARD UNIVERSITY #
 
