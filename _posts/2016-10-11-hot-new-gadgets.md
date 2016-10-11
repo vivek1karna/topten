@@ -2,6 +2,7 @@
 layout: post
 title: "Top 10 Technology Trends for 2016"
 description: "Hot New Gadgets"
+tags: [Hot New Gadgets]
 image:
   feature: techtrend.png
   background: triangular.png
