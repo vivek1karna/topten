@@ -4,11 +4,9 @@ title: TOP TEN UNIVERSITIES IN USA
 description: Top Online Uniersities
 comments: true
 image:
-  feature: edu.jpg
+  feature: pic01.jpg
 ---
 # MIT UNIVERSITY #
-
-<img src="../images/pic01.jpg">
 
 ### ABOUT ###
 
