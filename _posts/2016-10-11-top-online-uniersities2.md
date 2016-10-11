@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA-2
+title: TOP TEN UNIVERSITIES IN USA
 description: Top Online Uniersities
 comments: true
 image:
