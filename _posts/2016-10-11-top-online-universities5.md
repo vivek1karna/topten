@@ -3,6 +3,7 @@ layout: post
 title: TOP TEN UNIVERSITIES IN USA
 description: Top Online Universities
 comments: true
+tags: [Online Education Programs]
 image:
   feature: pic05.jpg
 ---
