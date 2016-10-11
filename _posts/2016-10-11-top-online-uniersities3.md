@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TOP TEN UNIVERSITIES IN USA
-description: Top Online Uniersities
+description: Top Online Universities
 comments: true
 image:
   feature: pic03.jpg
@@ -16,4 +16,4 @@ Stanford understudies originate from over the United States and all through the 
 FOR MORE INFORMATION
 <button><a href="http://www.stanford.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-[TOP 4](/topten/top-online-uniersities4/)
+[TOP 4](/topten/top-online-universities4/)
