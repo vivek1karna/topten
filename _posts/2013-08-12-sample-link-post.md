@@ -9,7 +9,7 @@ published: true
 ---
 # MIT UNIVERSITY #
 
-![]({{site.baseurl}}/../images/pic01.jpg)
+<img src="../images/pic01.jpg">
 
 ### ABOUT ###
 
