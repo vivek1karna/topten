@@ -44,7 +44,7 @@ Drinking all-natural green tea is an excellent way to boost your weight loss and
 
 ### Focus on Nutrients, Not Calories
 <figure>
-	<img src="http://goodfoodeating.com/wp-content/uploads/2012/11/calories-in-food-are-not-created-equal.jpg" alt="">
+	<img src="http://cozyguide.com/uploads/biopotato.com/postimages/the-benefits-of-the-whole-foods-diet-3.jpg" alt="">
 </figure>
 While the amount of calories you consume is crucial for weight loss, the quality of your food is often more important (and often ignored). "Losing weight isn't all about cutting calories. Your brain is looking for nutrients, not calories, and [your brain] will prod you to eat until you're satisfied," says Dr. Oz, who cites a recent landmark study published in the New England Journal of Medicine that found specific foods, not just their calorie content, influence weight gain. These results aren't exactly ground-breaking, but they confirm what weight-loss experts have been recommending for years.
 
