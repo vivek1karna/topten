@@ -20,7 +20,7 @@ The mission of the California Institute of Technology is to grow human learning 
 
 Established as Throop University in 1891 in Pasadena, California, and renamed the California Institute of Technology in 1920.
 
-FOR MORE INFORMATION
+FOR MORE INFORMATION:
 <button><a href="http://www.caltech.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-[TOP 5](/topten/top-online-universities5/)
+Goto :- [TOP 5](/topten/top-online-universities5/)
