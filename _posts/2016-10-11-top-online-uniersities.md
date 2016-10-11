@@ -5,7 +5,6 @@ description: Top Online Uniersities
 comments: true
 image:
   feature: edu.jpg
-published: true
 ---
 # MIT UNIVERSITY #
 
