@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 layout: post
@@ -68,4 +68,3 @@ The old saying 'you snooze, you lose' couldn't be more accurate when it comes to
 	<img src="http://i0.wp.com/roadsandkingdoms.com/uploads/2016/08/Food_trucker_breakfast-1.jpg?w=1280&zoom=2&quality=75&strip=all" alt="">
 </figure>
 You've heard it before, but it's worth repeating: Breakfast is still the most important meal of the day! "Skipping the first meal of the day can increase risk for obesity more than fourfold," Dr. Oz says. "If you don't eat right when you wake up, your body senses a famine is coming and slows your metabolism to compensate. Then, when your body is presented with food later, it's ravenous and wants to pack it in, leading to bingeing with a slow metabolism—a recipe for weight gain."
-
