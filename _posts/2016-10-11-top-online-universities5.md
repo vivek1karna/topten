@@ -6,7 +6,7 @@ comments: true
 image:
   feature: pic05.jpg
 ---
-# UNIVERSITY OF CHICAGO #
+## UNIVERSITY OF CHICAGO ##
 
 **An intellectual destination**
 
