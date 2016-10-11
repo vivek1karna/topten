@@ -29,4 +29,4 @@ You can gain college degrees at Yale College, ace's or doctoral degrees at the G
 FOR MORE INFORMATION:
 <button><a href="http://www.yale.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-Goto :- [TOP 8](/topten/top-online-universities8/)
+
