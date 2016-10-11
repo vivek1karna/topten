@@ -34,4 +34,4 @@ FOR MORE INFORMATION:
 
 Goto :- [TOP 10](/topten/top-online-universities10/)
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a>Goto<a href="/topten/top-online-universities10/" class="btn btn-success">TOP 10</a></div>
+<md-button class="btn1"><a href="/topten/top-online-universities10/">Top 10</md-button>
