@@ -26,19 +26,19 @@ They may be chock-full of nutrients, but exotic vegetables like celeriac and Jer
 
 ### Get Your Daily Dose of D
 <figure>
-	<img src="../images/d.jpg" alt="">
+	<img src="https://thrive.kaiserpermanente.org/wp-content/uploads/2016/02/d96567e9e9136013df9b.jpg" alt="">
 </figure>
 "New research says that vitamin D may play a crucial role in weight loss by controlling appetite and helping fat cells become more metabolically active," Dr. Oz says. The sunshine vitamin also helps your body better absorb bone-boosting calcium, improves immunity, reduces inflammation, and may even protect against some forms of cancer. Nearly 75 percent of Americans are vitamin-D deficient, so there's a good chance you're not getting your recommended daily dose of 400 IU (some people may need as much as 1000 IU, so check with your doctor to find out what's right for you).
 
 ### Drink More Water
 <figure>
-	<img src="../images/water.jpg" alt="">
+	<img src="http://www.institutefornaturalhealing.com/wp-content/uploads/2014/12/5-reasons-to-drink-more-water-everyday.jpg" alt="">
 </figure>
 There's a reason Dr. Oz can't omit this expected tip from the list. Drinking water is so imperative for staying healthy, energized, and even losing weight. There are so many reasons to stay hydrated—hunger is often disguised as thirst, it boosts your metabolism, and water is the best energy drink available, he says. To find out exactly how much water you should be drinking, divide your body weight (in pounds) by two and aim to drink that many ounces of water every day.
 
 ### Trade Supplements for Tea
 <figure>
-	<img src="../images/tea.jpg" alt="">
+	<img src="http://www-pukkaherbs.azureedge.net/generate/media/19005/040928_Tea-Oothu-9.jpg?width=952" alt="">
 </figure>
 Drinking all-natural green tea is an excellent way to boost your weight loss and your health. Not only does it have the power to stoke your metabolism, but it also contains the highest concentration of catechins, antioxidants found in plants that have been found to protect against heart disease and even some cancers. Sip on a few cups of green tea throughout the day to get all of its amazing benefits. Not a fan of tea? You can still reap the rewards! Try one (or all) of these creative ways to work green tea into your diet.
 
