@@ -7,7 +7,7 @@ title: TOP TEN UNIVERSITIES IN USA
 description: Top Online Universities
 comments: true
 image:
-  feature: pic01.jpg
+  feature: pic05.jpg
 ---
 # UNIVERSITY OF CHICAGO #
 
