@@ -3,6 +3,7 @@ layout: post
 title: "Top 10 Health and Fitness Tips of All Time"
 description: "Corporate health & wellness ideas"
 modified: 2013-06-30
+tags: [Corporate health & wellness ideas]
 image:
   feature: abstract-7.jpg
 ---
