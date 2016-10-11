@@ -56,13 +56,13 @@ You don't need to completely eliminate dessert (Dr. Oz says it's perfectly okay 
 
 ### Sleep More to Slim Down
 <figure>
-	<img src="../images/sleep.jpg" alt="">
+	<img src="http://www.rd.com/wp-content/uploads/2015/12/02-lose-weight-in-your-sleep-darkness.jpg" alt="">
 </figure>
 The old saying 'you snooze, you lose' couldn't be more accurate when it comes to shedding pounds. According to Dr. Oz, depriving your body of sleep can speed up the aging process and deter your weight-loss efforts. "The brain craves carbohydrates when you're tired, so you could unknowingly sabotage even the best laid plans," he says. Aim for a good seven hours (minimum) of shuteye every night to allow your body to restore and to protect vital organ functions.
 
 ### Make Breakfast Mandatory
 <figure>
-	<img src="../images/break.jpg" alt="">
+	<img src="http://i0.wp.com/roadsandkingdoms.com/uploads/2016/08/Food_trucker_breakfast-1.jpg?w=1280&zoom=2&quality=75&strip=all" alt="">
 </figure>
 You've heard it before, but it's worth repeating: Breakfast is still the most important meal of the day! "Skipping the first meal of the day can increase risk for obesity more than fourfold," Dr. Oz says. "If you don't eat right when you wake up, your body senses a famine is coming and slows your metabolism to compensate. Then, when your body is presented with food later, it's ravenous and wants to pack it in, leading to bingeing with a slow metabolism—a recipe for weight gain."
 
