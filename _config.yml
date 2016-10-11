@@ -13,7 +13,7 @@ owner:
   email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        toptencf
-  facebook:       https://www.facebook.com/TOP-TENS-673895462760914/
+  facebook:       TOP-TENS-673895462760914/
   github:         vivek1karna
   stackexchange:  
   linkedin:       
@@ -21,7 +21,7 @@ owner:
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:   102205247675562613521 
+  google_plus:    
 
 # Background image to be tiled on all pages
 background:
