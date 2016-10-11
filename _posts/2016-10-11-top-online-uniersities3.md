@@ -15,7 +15,8 @@ Stanford University, situated between San Francisco and San Jose in the heart of
 **Admission**
 
 Stanford understudies originate from over the United States and all through the world, speaking to differing points of view, encounters, foundations and societies. U.S. undergrad candidates are conceded on a need-dazzle premise, and the college offers considerable money related guide to help families deal with the expenses. Once here, Stanford understudies find exceptional flexibility of chance — to investigate, to team up and to test themselves.
-FOR MORE INFORMATION
+
+FOR MORE INFORMATION:
 <button><a href="http://www.stanford.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-[TOP 4](/topten/top-online-universities4/)
+Goto :- [TOP 4](/topten/top-online-universities4/)
