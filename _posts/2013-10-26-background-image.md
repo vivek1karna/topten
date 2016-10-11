@@ -5,8 +5,6 @@ description: "Best Insurance Companies"
 tags: [Insurance post]
 image:
   feature: insu.jpg
-image:
   background: triangular.png
----
 
 
