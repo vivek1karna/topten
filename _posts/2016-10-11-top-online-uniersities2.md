@@ -4,11 +4,9 @@ title: TOP TEN UNIVERSITIES IN USA-2
 description: Top Online Uniersities
 comments: true
 image:
-  feature: edu.jpg
+  feature: pic02.jpg
 ---
 # HARVARD UNIVERSITY #
-
-<img src="../images/pic02.jpg">
 
 ## About Stanford ##
 Harvard University is dedicated to magnificence in instructing, learning, and examine, and to creating pioneers in numerous orders who have any kind of effect universally. The University, which is situated in Cambridge and Boston, Massachusetts, has an enlistment of more than 20,000 degree competitors, including undergrad, graduate, and expert understudies. Harvard has more than 360,000 graduated class the world over.
