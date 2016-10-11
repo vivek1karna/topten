@@ -2,6 +2,7 @@
 layout: post
 title: TOP 10 Best INSURANCE COMPANIES IN USA
 description: "Best Insurance Companies"
+tags: [Best Insurance Companies]
 image:
   feature: insu.jpg
   background: triangular.png
