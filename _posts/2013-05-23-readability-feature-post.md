@@ -50,7 +50,7 @@ While the amount of calories you consume is crucial for weight loss, the quality
 
 ### Delay Dessert
 <figure>
-	<img src="../images/desert.jpg" alt="">
+	<img src="http://blog.wonderslim.com/wp-content/uploads/2016/03/clock-timer-cupcake-diet.jpg" alt="">
 </figure>
 You don't need to completely eliminate dessert (Dr. Oz says it's perfectly okay to indulge your sweet tooth in moderation), just try not to indulge immediately after dinner. "Avoid sweets directly after a meal since sugar disrupts the absorption of nutrients," Dr. Oz says. The best time for a sweet treat is about two hours after you finish your meal. And when it comes to what you eat, try the good doctor's go-to dessert: dark chocolate. "The flavonols found in cocoa improve circulation and increase blood flow to the brain, which helps you see more clearly," he says. (We also love these amazingly delicious—and nutritious—gluten-free goodies).
 
