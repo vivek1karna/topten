@@ -1,15 +1,15 @@
-title:            HPSTR Theme
+title:            TOP 10
 description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
-disqus_shortname: hpstrtheme
+disqus_shortname: TOPTEN
 reading_time:     true
 words_per_minute: 200
-url:              https://mmistakes.github.io/hpstr-jekyll-theme
+url:              https://vivek1karna.github.io/topten
 
 # Owner/author information
 owner:
-  name:           Michael Rose
+  name:           Vivek Lal Karna 
   avatar:         avatar.jpg
-  bio:            "Just another boring, tattooed, time traveling designer hailing from Buffalo New York."
+  bio:            "Thank you to every person who has ever told me I can’t. You are just another reason I will."
   email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        mmistakes
@@ -38,6 +38,7 @@ future:      true
 highlighter: rouge
 markdown:    kramdown
 gems:
+  - jekyll-seo
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-gist
