@@ -9,5 +9,5 @@ image:
 
 ### Corporate health & wellness ideas
 <figure>
-	<img src="/images/anstract1.jpg" alt=""></a>
+	<img src="../images/anstract1.jpg" alt="">
 </figure>
