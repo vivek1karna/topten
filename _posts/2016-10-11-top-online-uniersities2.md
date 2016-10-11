@@ -20,7 +20,7 @@ Harvard workforce are locked in with educating and research to push the limits o
 
 Harvard is the most seasoned foundation of advanced education in the United States, set up in 1636 by vote of the Great and General Court of the Massachusetts Bay Colony. It was named after the College's first advocate, the youthful priest John Harvard of Charlestown, who upon his passing in 1638 left his library and a large portion of his home to the foundation. A statue of John Harvard stands today before University Hall in Harvard Yard, and is maybe the University's best known point of interest.
 
-FOR MORE INFORMATION
+FOR MORE INFORMATION:
 <button><a href="http://www.harvard.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-[TOP 3](/topten/top-online-universities3/)
+Goto :- [TOP 3](/topten/top-online-universities3/)
