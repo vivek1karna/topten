@@ -47,5 +47,5 @@ Look into labs at which you could seek after a UROP include:
 FOR MORE INFORMATION
 <button><a href="http://web.mit.edu/">VISIT OFFICIAL WEBSITE</a></button>
 
-<button>[Some Link]({% https://github.com/vivek1karna/topten/blob/gh-pages/_posts/2013-10-26-background-image.md 2013-10-26-background-image.md %})</button>
+
 
