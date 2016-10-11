@@ -20,7 +20,7 @@ The easiest way to lose weight and improve your health? Ditch the white stuff! M
 
 ### Bring On the Broccoli
 <figure>
-	<img src="../images/bro.jpg" alt="">
+	<img src="http://www.christopherjamesclark.com/blog/wp-content/uploads/2014/12/green-broccoli.jpg" alt="">
 </figure>
 They may be chock-full of nutrients, but exotic vegetables like celeriac and Jerusalem artichokes don't always appeal to more traditional pallets. And that's fine, according to Dr. Oz, who says broccoli is his all-time favorite produce. "Broccoli is the best produce option because it cleanses the liver and helps to fight cancer," he says. To reap the most rewards, the doctor suggests cleaning and slicing cruciferous veggies (like broccoli) five to 10 minutes before cooking, and then steaming or microwaving them (instead of boiling) to help retain the most cancer-fighting compounds.
 
