@@ -1,4 +1,4 @@
-title:            Top10 ! A place where you can find top ten of everything.
+title:            "Top10 ! A place where you can find top ten of everything."
 description:      A responsive Jekyll theme with modern tendencies from designer Michael Rose.
 disqus_shortname: TOPTEN
 reading_time:     true
@@ -6,7 +6,7 @@ words_per_minute: 200
 url:              https://vivek1karna.github.io/topten
 
 # Owner/author information
- Owner:          
+ Author:          "Vivek Lal Karna"          
   name:           "Vivek Lal Karna" 
   avatar:         avatar.jpg
   bio:            "Thank you to every person who has ever told me I can’t. You are just another reason I will."
