@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: YALE UNIVERSITY (Top 7 Uni of USA)
 description: Top Online Universities
 comments: true
 tags: [Best Teaching Degrees]
