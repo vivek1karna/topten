@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: MIT UNIVERSITY (Top 1 Uni of USA)
 description: Top Online Universities
 comments: true
 tags: [Top Online Universities]
