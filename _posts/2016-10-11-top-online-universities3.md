@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: STANFORD UNIVERSITY (Top 3 Uni of USA)
 description: Top Online Universities
 comments: true
 tags: [Online Universities in USA]
