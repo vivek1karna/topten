@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: UNIVERSITY OF CHICAGO (Top 6 Uni of USA)
 description: Top Online Universities
 comments: true
 tags: [good colleges for teaching degree]
