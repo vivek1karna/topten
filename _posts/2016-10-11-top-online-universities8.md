@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: JOHNS HOPKINS UNIVERSITY (Top 8 Uni of USA)
 description: Top Online Universities
 comments: true
 tags: [Masters in Teaching Programs Rankings]
