@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: CORNELL UNIVERSITY (Top 9 Uni of USA)
 description: Top Online Universities
 comments: true
 tags: [Masters Programs in Education]
