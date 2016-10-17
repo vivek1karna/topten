@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TOP TEN UNIVERSITIES IN USA
+title: UNIVERSITY OF PENNSYL (Top 10 Uni of USA)
 description: Top Online Universities
 comments: true
 tags: [Online University USA]
