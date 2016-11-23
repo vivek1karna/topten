@@ -9,7 +9,7 @@
 
 <body id="post-index" {% if page.image.feature %}class="feature"{% endif %}>
   
-\{\% include advertising.html \%\}
+{% include advertisements.html %}
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
@@ -34,7 +34,7 @@
 
 <div class="footer-wrapper">
   <footer role="contentinfo">
-    \{\% include advertising.html \%\}
+   {% include advertisements.html %}
     {% include footer.html %}
   </footer>
 </div><!-- /.footer-wrapper -->
