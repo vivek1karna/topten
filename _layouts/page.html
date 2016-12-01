@@ -5,12 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include head.html %}
+  {% include advertisements.html %}
 </head>
 
 <body id="page" {% if page.image.feature %}class="feature"{% endif %}>
 
 {% include browser-upgrade.html %}
 {% include navigation.html %}
+  {% include advertisements.html %}
 
 {% if page.image.feature %}
 <div class="entry-header">
@@ -37,6 +39,7 @@
     <div class="entry-content">
       {{ content }}
       <footer class="entry-meta">
+        {% include advertisements.html %}
         {% if page.modified %}<span>Updated on <span class="entry-date date published updated"><time datetime="{{ page.modified }}">{{ page.modified | date: "%B %d, %Y" }}</time></span></span>
         <span class="author vcard"><span class="fn">{{ site.owner.name }}</span></span>{% endif %}
         {% if page.share != false %}{% include social-share.html %}{% endif %}
@@ -55,4 +58,5 @@
 {% include scripts.html %}          
 
 </body>
+  {% include advertisements.html %}
 </html>
